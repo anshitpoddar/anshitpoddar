@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anshitpoddar
-- 👀 I’m interested in ...developing, Cloud, DevOps, Cybersecurity and Ethical hacking
+- 👀 I’m interested in ...Data Science, Developing, Cybersecurity and Ethical hacking, Cloud
 - 🌱 I’m currently learning ...C++ and DSA
 - 📫 How to reach me ... https://linktr.ee/anshit_poddar
 
