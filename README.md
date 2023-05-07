@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anshitpoddar
-- 👀 I’m interested in ...Data Science, Developing, Cybersecurity and Ethical hacking, Cloud
-- 🌱 I’m currently learning ...C++ and DSA
+- 👀 I’m interested in ...Data Science, Front-end Developing, Cybersecurity
+- 🌱 I’m currently learning ...C++ ,JS and DSA
 - 📫 How to reach me ... https://linktr.ee/anshit_poddar
 
 <!---
